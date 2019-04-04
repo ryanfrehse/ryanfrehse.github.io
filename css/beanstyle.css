@@ -35,7 +35,7 @@ h1 {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: orange;
   color: black;
 }
 
