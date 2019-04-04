@@ -9,7 +9,7 @@
 body {
 	background-color: black;
 	color: orange;
-	background-image: url(tri.png); 
+	background-image: url(images\tri.png); 
 	font-family: "Dokdo", sans-serif;
 	font-size: 4em;
 }
