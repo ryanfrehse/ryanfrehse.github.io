@@ -64,7 +64,10 @@ function getRandomName() {
 	return (
 	person
   ); 
-  }  
+  }
+else{
+	my_window.close();
+}  
 }
 
 function getPlaceHolder() {
